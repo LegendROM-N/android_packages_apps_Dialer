@@ -80,7 +80,7 @@
   <string name="call_recording_format">Format d\'àudio</string>
   <string name="call_playback_no_app_found_toast">Es pot trobar cap aplicació per a la reproducció de la gravació seleccionada.</string>
   <!-- Speed Dial -->
-  <string name="speed_dial_settings">Ajustaments de trucada ràpida</string>
+  <string name="speed_dial_settings">Configuració de trucada ràpida</string>
   <string name="speed_dial_not_set">(no configurat)</string>
   <string name="speed_dial_replace">Substitueix</string>
   <string name="speed_dial_delete">Esborra</string>
@@ -132,15 +132,15 @@
   <!-- Title for missed 4G video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_lte">Videotrucada 4G perduda</string>
   <!-- Title for incoming wifi voice call in call details screen [CHAR LIMIT=60] -->
-  <string name="type_incoming_vowifi">Trucada de veu WiFi entrant</string>
+  <string name="type_incoming_vowifi">Trucada de veu Wi-Fi entrant</string>
   <!-- Title for incoming wifi video call in call details screen [CHAR LIMIT=60] -->
-  <string name="type_incoming_video_wifi">Videotrucada de veu WiFi entrant</string>
+  <string name="type_incoming_video_wifi">Videotrucada de veu Wi-Fi entrant</string>
   <!-- Title for outgoing wifi voice call in call details screen [CHAR LIMIT=60] -->
-  <string name="type_outgoing_vowifi">Trucada de veu WiFi sortint</string>
+  <string name="type_outgoing_vowifi">Trucada de veu Wi-Fi sortint</string>
   <!-- Title for outgoing wifi video call in call details screen [CHAR LIMIT=60] -->
-  <string name="type_outgoing_video_wifi">Videotrucada de veu WiFi sortint</string>
+  <string name="type_outgoing_video_wifi">Videotrucada de veu Wi-Fi sortint</string>
   <!-- Title for missed wifi voice call in call details screen [CHAR LIMIT=60] -->
-  <string name="type_missed_vowifi">Trucada de veu WiFi perduda</string>
+  <string name="type_missed_vowifi">Trucada de veu Wi-Fi perduda</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
-  <string name="type_missed_video_wifi">Videotrucada de veu WiFi perduda</string>
+  <string name="type_missed_video_wifi">Videotrucada de veu Wi-Fi perduda</string>
 </resources>
