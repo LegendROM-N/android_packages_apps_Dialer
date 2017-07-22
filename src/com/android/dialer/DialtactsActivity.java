@@ -550,6 +550,14 @@ public class DialtactsActivity extends TransactionSafeActivity implements View.O
                 showVideoCallWelcomeDialog();
             }
         }
+
+        if (ActivityCompat.checkSelfPermission(DialtactsActivity.this,
+                    Manifest.permission.ACCESS_COARSE_LOCATION) !=
+                    PackageManager.PERMISSION_GRANTED) {
+                requestPermissions(
+                        new String[] {Manifest.permission.ACCESS_COARSE_LOCATION},
+                        PERMISSION_REQUEST_CODE_LOCATION);
+        }
     }
     @Override
     protected void onResume() {
